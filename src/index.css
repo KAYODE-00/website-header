@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+*{
+    font-family: 'Prompt', sans-serif;
+   
+}
+.dark{
+    background: green;
+}
+.light{
+    background: #000;
+}
