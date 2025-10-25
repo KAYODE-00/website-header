@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Hero from "./compo/hero";
+import Hero from "./compo/Hero";
 
 function App() {
   const [darkM, setDarkM] = useState( () => { 
